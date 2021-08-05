@@ -6,4 +6,5 @@ class BarberAppointmentsGetSuccessState extends BarberAppointmentsStates{}
 class BarberAppointmentsGetErrorState extends BarberAppointmentsStates{
   final String error;
   BarberAppointmentsGetErrorState({this.error});
+//  test repo 
 }
